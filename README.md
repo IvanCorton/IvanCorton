@@ -1,10 +1,27 @@
-- 👋 Hi, I’m Iván Cortón da Silva
-- 🌱 I’m currently graduated in Computer Science at University of Granada (UGR) and working for GitKraken.
-- 👀 I’m interested overall in Security Concepts and Algorithms, Python programming, Test Automation stuffs...
-- 💞️ I would like to contribute in projects related with the Information Security, Automation, IoT...
-- 📫 How to reach me: via linkedIn -> https://www.linkedin.com/in/ivancortondasilva/
+# Hi, I'm Iván Cortón da Silva 👋
 
-<!---
-IvanCorton/IvanCorton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**QA Automation Engineer @ GitKraken** — Computer Science graduate (University of Granada, UGR).  
+I build reliable E2E automation, testing infrastructure, and developer-facing tools, with a growing focus on **AI/LLM-driven workflows** for quality and productivity.
+
+## What I work on 🧪
+- **Test Automation** (Playwright, E2E/UI, CI reliability, flake reduction)
+- **QA Engineering** (test strategy, coverage, tooling, maintainability)
+- **Developer Experience** (automation utilities, workflows, internal tooling)
+- **Applied AI for QA** (practical ways to augment testing and debugging)
+
+## Interests 👀
+- Security concepts & secure engineering mindset
+- Algorithms & problem solving
+- Python and automation tooling
+- Systems that scale (quality, processes, and infra)
+
+## Let’s collaborate 💞️
+I’m happy to contribute to projects around:
+- Test automation frameworks & tooling
+- Developer productivity / DX
+- Security-focused engineering
+- AI-assisted testing and workflows
+- IoT automation experiments
+
+## How to reach me 📫
+- LinkedIn: https://www.linkedin.com/in/ivancortondasilva/
